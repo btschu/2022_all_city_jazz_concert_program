@@ -1022,13 +1022,14 @@ section {
 #footer {
   background: black;
   border-top: 1px solid #37332a;
-  padding: 60px 0 60px 0;
+  padding: 60px 20px;
   line-height: 1;
 }
 
 #footer h3 {
   font-family: 'Kaushan Script';
   font-size: 50px;
+  /* padding: 20px; */
 }
 
 #logo img{
